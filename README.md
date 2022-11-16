@@ -1,10 +1,7 @@
-Gallin Montgomery, PhD
-- Horizon Scanning Information Analyst, Innovation, Research and Life Sciences Group. NHS England.
-- 👋 Hi, I’m @GallinM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Gallin Montgomery, PhD
+- Horizon Scanning Information Analyst
+- Innovation, Research and Life Sciences Group
+- NHS England
 
 <!---
 GallinM/GallinM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
