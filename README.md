@@ -1,5 +1,5 @@
 # Gallin Montgomery, PhD
-- Horizon Scanning Information Analyst
+- Horizon Scanning & Demand Signalling Senior Analytical Manager
 - Innovation, Research and Life Sciences Group
 - NHS England
 
