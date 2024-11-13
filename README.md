@@ -1,7 +1,6 @@
 # Gallin Montgomery, PhD
-- Horizon Scanning & Demand Signalling Senior Analytical Manager
-- Innovation, Research and Life Sciences Group
-- NHS England
+- Senior Analytical Manager
+- NHS Arden and GEM CSU
 
 <!---
 GallinM/GallinM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
